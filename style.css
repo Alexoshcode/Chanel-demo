@@ -97,7 +97,7 @@ ul {
 
 .header .container {
   background: url(./header-img.jpg);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
   margin-top: 10px;
@@ -112,7 +112,7 @@ ul {
   border-radius: 10px;
   position: absolute;
   margin-top: 300px;
-  margin-left: 30px;
+  margin-left: 25px;
 }
 
 .header .header-heading {
